@@ -1,40 +1,169 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="Rai 1" tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/1280px-Rai_1_-_Logo_2016.svg.png" group-title="Italy",Rai 1
+#EXTINF:-1 tvg-name="Rai 1" tvg-chno="001" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/1280px-Rai_1_-_Logo_2016.svg.png" group-title="Italy",Rai 1
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=16
 
-#EXTINF:-1 tvg-name="Rai 2" tvg-chno="2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/1280px-Rai_2_-_Logo_2016.svg.png" group-title="Italy",Rai 2
+#EXTINF:-1 tvg-name="Rai 2" tvg-chno="002" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/1280px-Rai_2_-_Logo_2016.svg.png" group-title="Italy",Rai 2
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=16
 
-#EXTINF:-1 tvg-name="Rai 3" tvg-chno="3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/1280px-Rai_3_-_Logo_2016.svg.png" group-title="Italy",Rai 3
+#EXTINF:-1 tvg-name="Rai 3" tvg-chno="003" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/1280px-Rai_3_-_Logo_2016.svg.png" group-title="Italy",Rai 3
 https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=16
 
-#EXTINF:-1 tvg-name="Rete 4" tvg-chno="4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Rete_4_-_Logo_2018.svg/1024px-Rete_4_-_Logo_2018.svg.png" group-title="Italy",Rete 4
+#EXTINF:-1 tvg-name="Rete 4" tvg-chno="004" tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2021/10/RETE-4-HD.png" group-title="Italy",Rete 4
 https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-name="Canale 5" tvg-chno="5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canale_5_-_2018_logo.svg/1024px-Canale_5_-_2018_logo.svg.png" group-title="Italy",Canale 5
+#EXTINF:-1 tvg-name="Canale 5" tvg-chno="005" tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2021/10/Canale5-HD.png" group-title="Italy",Canale 5
 https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-name="Italia 1" tvg-chno="6" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/30/Logo_Italia_1.svg/1024px-Logo_Italia_1.svg.png" group-title="Italy",Italia 1
+#EXTINF:-1 tvg-name="Italia 1" tvg-chno="006" tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2021/10/Italia1-HD.png" group-title="Italy",Italia 1
 https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
 
-#EXTINF:-1 tvg-name="LA7" tvg-chno="7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/LA7_-_Logo_2011.svg/1280px-LA7_-_Logo_2011.svg.png" group-title="Italy",LA7
+#EXTINF:-1 tvg-name="LA7" tvg-chno="007" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/LA7_-_Logo_2011.svg/1280px-LA7_-_Logo_2011.svg.png" group-title="Italy",LA7
 https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
 
-#EXTINF:-1 tvg-name="TV8" tvg-chno="8" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6d/TV8_Logo_2016.svg/800px-TV8_Logo_2016.svg.png" group-title="Italy",TV8
+#EXTINF:-1 tvg-name="TV8" tvg-chno="008" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6d/TV8_Logo_2016.svg/800px-TV8_Logo_2016.svg.png" group-title="Italy",TV8
 https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
 
-#EXTINF:-1 tvg-name="NOVE" tvg-chno="9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Nove_-_Logo_2017.svg/1920px-Nove_-_Logo_2017.svg.png" group-title="Italy",NOVE
+#EXTINF:-1 tvg-name="NOVE" tvg-chno="009" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Nove_-_Logo_2017.svg/1920px-Nove_-_Logo_2017.svg.png" group-title="Italy",NOVE
 https://amg16146-wbdi-amg16146c1-samsung-it-1831.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-nove-samsungit/playlist.m3u8
 
-#EXTINF:-1 tvg-name="CANALE 10" tvg-chno="10" tvg-logo="https://canaledieci.it/wp-content/uploads/2020/12/canaledieci-logo-blue.png" group-title="Italy",CANALE 10
+#EXTINF:-1 tvg-name="CANALE 10" tvg-chno="010" tvg-logo="https://canaledieci.it/wp-content/uploads/2020/12/canaledieci-logo-blue.png" group-title="Italy",CANALE 10
 https://wz4.newradio.it/dyrqkgmjqq/dyrqkgmjqq/playlist.m3u8
 
-#EXTINF:-1 tvg-name="GOLD TV" tvg-chno="11" tvg-logo="https://massimoemanuelli.files.wordpress.com/2017/11/gold-tv.png" group-title="Italy",GOLD TV
+#EXTINF:-1 tvg-name="GOLD TV" tvg-chno="011" tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2024/01/GOLD-TV-NETWEEK-HD-n.png" group-title="Italy",GOLD TV
 https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Teleuniverso" tvg-chno="12" tvg-logo="https://www.teleuniverso.it/wp-content/uploads/2023/12/cropped-logo-tu-300-1.png" group-title="Italy",Teleuniverso
+#EXTINF:-1 tvg-name="Teleuniverso" tvg-chno="012" tvg-logo="https://www.teleuniverso.it/wp-content/uploads/2023/12/cropped-logo-tu-300-1.png" group-title="Italy",Teleuniverso
 https://stream.cp.ets-sistemi.it:1936/teleuniverso/teleuniverso/playlist.m3u8
 
-#EXTINF:-1 tvg-name="LAZIO TV" tvg-chno="13" tvg-logo="https://www.laziotv.it/wp-content/uploads/2021/02/Logo-Laziotv-1.png" group-title="Italy",LAZIO TV
+#EXTINF:-1 tvg-name="LAZIO TV" tvg-chno="013" tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2024/01/LAZIO-TV-HD-NETWEEK.png" group-title="Italy",LAZIO TV
 https://streaming.softwarecreation.it/LazioTv/LazioTv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="RadioRomaTelevision" tvg-chno="014" tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2022/06/RADIO-ROMA-TELEVISION.png" group-title="Italy",RadioRomaTelevision
+https://5926fc9c7c5b2.streamlock.net/rtfeunawfu/rtfeunawfu/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Radio Roma TV" tvg-chno="015" tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2023/01/RADIO-ROMA-TV-1.png" group-title="Italy",Radio Roma TV
+https://585b674743bbb.streamlock.net/9044/9044/playlist.m3u8
+
+#EXTINF:-1 tvg-name="016" tvg-id="" tvg-logo="" group-title="-",
+http://null
+
+#EXTINF:-1 tvg-name="017" tvg-id="" tvg-logo="" group-title="-",
+http://null
+
+#EXTINF:-1 tvg-name="Teleambiente" tvg-chno="018" tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2021/12/Teleambiente.png" group-title="Italy",Teleambiente
+https://5f22d76e220e1.streamlock.net/teleambiente/teleambiente/playlist.m3u8
+
+#EXTINF:-1 tvg-name="CANALE 21 EXTRA" tvg-chno="019" tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2021/10/CANALE-21-EXTRA.png" group-title="Italy",CANALE 21 EXTRA
+https://streamcdng13-0ff9dd7fe9b64bc08a5fc4ed525454c3.msvdn.net/live/S42170132/sT6C3LFaD1iA/playlist.m3u8
+
+#EXTINF:-1 tvg-name="20Mediaset" tvg-chno="020" tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2021/10/20-MEDIASET-HD.png" group-title="Italy",20Mediaset
+https://live02-seg.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-name="Rai 4" tvg-chno="021" tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2021/10/Rai-4.png" group-title="Italy",Rai 4
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=16
+
+#EXTINF:-1 tvg-name="Iris" tvg-chno="022" tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2022/12/Iris-HD.png" group-title="Italy",Iris
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ki/ki-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-name="Rai 5" tvg-chno="023" tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2021/10/Rai-5.png" group-title="Italy",Rai 5
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=395276&output=16
+
+#EXTINF:-1 tvg-name="Rai Movie" tvg-chno="024" tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2022/02/RAI-MOVIE-HD.png" group-title="Italy",Rai Movie
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=747002&output=16
+
+#EXTINF:-1 tvg-name="Rai Premium" tvg-chno="025" tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2021/10/Rai-Premium.png" group-title="Italy",Rai Premium
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746992&output=16
+
+#EXTINF:-1 tvg-name="Cielo" tvg-chno="026" tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2021/12/cielo.png" group-title="Italy",Cielo
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11219/cieloweb/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
+
+#EXTINF:-1 tvg-name="27 Twentyseven" tvg-chno="027" tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2022/12/27Twentyseven-HD.png" group-title="Italy",27 Twentyseven
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ts/ts-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-name="TV2000" tvg-chno="028" tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2022/09/TV2000-n.png" group-title="Italy",TV2000
+https://hls-live-tv2000.akamaized.net/hls/live/2028510/tv2000/master.m3u8
+
+#EXTINF:-1 tvg-name="LA7d" tvg-chno="029" tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2021/10/La7D.png" group-title="Italy",LA7d
+https://d15umi5iaezxgx.cloudfront.net/LA7D/CLN/HLS-B/Live.m3u8
+
+#EXTINF:-1 tvg-name="La5" tvg-chno="030" tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2022/12/La5-HD.png" group-title="Italy",La5
+https://live02-seg.msf.cdn.mediaset.net/live/ch-ka/ka-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-name="Real Time" tvg-chno="031" tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2021/10/REAL-TIME.png" group-title="Italy",Real Time
+https://i.mjh.nz/SamsungTVPlus/ITBD4400007AR.m3u8
+
+#EXTINF:-1 tvg-name="QVC" tvg-chno="032" tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2021/10/QVC.png" group-title="Italy",QVC
+https://qrg.akamaized.net/hls/live/2017383/lsqvc1it/master.m3u8
+
+#EXTINF:-1 tvg-name="Food Network" tvg-chno="033" tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2021/10/FOOD-NETWORK.png" group-title="Italy",Food Network
+https://i.mjh.nz/SamsungTVPlus/ITBD4400002Q8.m3u8
+
+#EXTINF:-1 tvg-name="Cine34" tvg-chno="034" tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2022/12/CINE-34-HD.png" group-title="Italy",Cine34
+https://live02-seg.msf.cdn.mediaset.net/live/ch-b6/b6-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-name="Focus" tvg-chno="035" tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2022/12/Focus-HD.png" group-title="Italy",Focus
+https://live02-seg.msf.cdn.mediaset.net/live/ch-fu/fu-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-name="RTL 102.5" tvg-chno="036" tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2021/10/RTL-102.5.png" group-title="Italy",RTL 102.5
+https://dd782ed59e2a4e86aabf6fc508674b59.msvdn.net/live/S97044836/tbbP8T1ZRPBL/playlist_video.m3u8
+
+#EXTINF:-1 tvg-name="Warner TV" tvg-chno="037" tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2022/10/WARNER-TV.png" group-title="Italy",Warner TV
+https://i.mjh.nz/SamsungTVPlus/ITBD4400010WK.m3u8
+
+#EXTINF:-1 tvg-name="GIALLO" tvg-chno="038" tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2021/10/GIALLO.png" group-title="Italy",GIALLO
+https://i.mjh.nz/SamsungTVPlus/ITBD44000047C.m3u8
+
+#EXTINF:-1 tvg-name="TOPcrime" tvg-chno="039" tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2022/12/TOPcrime-HD.png" group-title="Italy",TOPcrime
+https://live02-seg.msf.cdn.mediaset.net/live/ch-lt/lt-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-name="Boing" tvg-chno="040" tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2023/05/Boing-HD.png" group-title="Italy",Boing
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kb/kb-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-name="K2" tvg-chno="041" tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2021/10/K2.png" group-title="Italy",K2
+https://i.mjh.nz/SamsungTVPlus/ITBD440000698.m3u8
+
+#EXTINF:-1 tvg-name="Rai Gulp" tvg-chno="042" tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2021/10/Rai-Gulp.png" group-title="Italy",Rai Gulp
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746953&output=16
+
+#EXTINF:-1 tvg-name="Rai YoYo" tvg-chno="043" tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2021/10/Rai-yoyo.png" group-title="Italy",Rai YoYo
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746899&output=16
+
+#EXTINF:-1 tvg-name="Frisbee" tvg-chno="044" tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2021/10/Frisbee.png" group-title="Italy",Frisbee
+https://i.mjh.nz/SamsungTVPlus/ITBD4400003JF.m3u8
+
+#EXTINF:-1 tvg-name="045" tvg-id="" tvg-logo="" group-title="-",
+http://null
+
+#EXTINF:-1 tvg-name="Cartoonito" tvg-chno="046" tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2023/05/Cartoonito-HD.png" group-title="Italy",Cartoonito
+https://live02-seg.msf.cdn.mediaset.net/live/ch-la/la-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-name="Super!" tvg-chno="047" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Super%21_logo_2021.svg/512px-Super%21_logo_2021.svg.png" group-title="Italy",Super!
+https://vimnitaly.akamaized.net/hls/live/2094034/super/master.m3u8
+
+#EXTINF:-1 tvg-name="Rai News 24" tvg-chno="048" tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2023/03/Rai-News-24-HD.png" group-title="Italy",Rai News 24
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=1&output=16
+
+#EXTINF:-1 tvg-name="Mediaset Italia2" tvg-chno="049" tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2022/12/Mediaset-Italia2-HD-1.png" group-title="Italy",Mediaset Italia 2
+https://live02-seg.msf.cdn.mediaset.net/live/ch-i2/i2-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-name="Sky TG24" tvg-chno="050" tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2021/10/Sky-TG24.png" group-title="Italy",Sky TG24
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/12221/web/master.m3u8?hdnts=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
+
+#EXTINF:-1 tvg-name="TGCOM24" tvg-chno="051" tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2022/12/TGCOM24-HD.png" group-title="Italy",TGCOM24
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kf/kf-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-name="DMAX" tvg-chno="052" tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2021/10/DMAX.png" group-title="Italy",DMAX
+https://i.mjh.nz/SamsungTVPlus/ITBD4400001X5.m3u8
+
+#EXTINF:-1 tvg-name="Italia 53" tvg-chno="053" tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2021/10/casa-Italia-53.png" group-title="Italy",Italia 53
+https://ovp-live.akamaized.net/ac115_live/canale3.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Rai Storia" tvg-chno="054" tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2021/10/Rai-Storia.png" group-title="Italy",Rai Storia
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746990&output=16
+
+#EXTINF:-1 tvg-name="Mediaset Extra" tvg-chno="055" tvg-logo="https://lh3.googleusercontent.com/fy0FLfjNwFe5s19_YvMEAB0SYE4E540bzu1gsjqEudS28rp5vkBYdNK3xQbXTw9ml5rJycklpVVB1R0=w133-h99" group-title="Italy",Mediaset Extra
+https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-name="HGTV - Home&Garden" tvg-chno="056" tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2021/10/HGTV.png" group-title="Italy",HGTV - Home&Garden
+https://i.mjh.nz/SamsungTVPlus/ITBD44000056I.m3u8
