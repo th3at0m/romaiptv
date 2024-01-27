@@ -1,0 +1,40 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-name="Rai 1" tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/1280px-Rai_1_-_Logo_2016.svg.png" group-title="Italy",Rai 1
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=16
+
+#EXTINF:-1 tvg-name="Rai 2" tvg-chno="2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/1280px-Rai_2_-_Logo_2016.svg.png" group-title="Italy",Rai 2
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=16
+
+#EXTINF:-1 tvg-name="Rai 3" tvg-chno="3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/1280px-Rai_3_-_Logo_2016.svg.png" group-title="Italy",Rai 3
+https://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=16
+
+#EXTINF:-1 tvg-name="Rete 4" tvg-chno="4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Rete_4_-_Logo_2018.svg/1024px-Rete_4_-_Logo_2018.svg.png" group-title="Italy",Rete 4
+https://live02-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-name="Canale 5" tvg-chno="5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canale_5_-_2018_logo.svg/1024px-Canale_5_-_2018_logo.svg.png" group-title="Italy",Canale 5
+https://live02-seg.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-name="Italia 1" tvg-chno="6" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/30/Logo_Italia_1.svg/1024px-Logo_Italia_1.svg.png" group-title="Italy",Italia 1
+https://live02-seg.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/index.m3u8
+
+#EXTINF:-1 tvg-name="LA7" tvg-chno="7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/LA7_-_Logo_2011.svg/1280px-LA7_-_Logo_2011.svg.png" group-title="Italy",LA7
+https://d15umi5iaezxgx.cloudfront.net/LA7/CLN/HLS-B/Live.m3u8
+
+#EXTINF:-1 tvg-name="TV8" tvg-chno="8" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6d/TV8_Logo_2016.svg/800px-TV8_Logo_2016.svg.png" group-title="Italy",TV8
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
+
+#EXTINF:-1 tvg-name="NOVE" tvg-chno="9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Nove_-_Logo_2017.svg/1920px-Nove_-_Logo_2017.svg.png" group-title="Italy",NOVE
+https://amg16146-wbdi-amg16146c1-samsung-it-1831.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-nove-samsungit/playlist.m3u8
+
+#EXTINF:-1 tvg-name="CANALE 10" tvg-chno="10" tvg-logo="https://canaledieci.it/wp-content/uploads/2020/12/canaledieci-logo-blue.png" group-title="Italy",CANALE 10
+https://wz4.newradio.it/dyrqkgmjqq/dyrqkgmjqq/playlist.m3u8
+
+#EXTINF:-1 tvg-name="GOLD TV" tvg-chno="11" tvg-logo="https://massimoemanuelli.files.wordpress.com/2017/11/gold-tv.png" group-title="Italy",GOLD TV
+https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8
+
+#EXTINF:-1 tvg-name="Teleuniverso" tvg-chno="12" tvg-logo="https://www.teleuniverso.it/wp-content/uploads/2023/12/cropped-logo-tu-300-1.png" group-title="Italy",Teleuniverso
+https://stream.cp.ets-sistemi.it:1936/teleuniverso/teleuniverso/playlist.m3u8
+
+#EXTINF:-1 tvg-name="LAZIO TV" tvg-chno="12" tvg-logo="https://www.laziotv.it/wp-content/uploads/2021/02/Logo-Laziotv-1.png" group-title="Italy",LAZIO TV
+https://streaming.softwarecreation.it/LazioTv/LazioTv/playlist.m3u8
