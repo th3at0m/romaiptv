@@ -36,5 +36,5 @@ https://streaming.softwarecreation.it/GoldTv/GoldTv/playlist.m3u8
 #EXTINF:-1 tvg-name="Teleuniverso" tvg-chno="12" tvg-logo="https://www.teleuniverso.it/wp-content/uploads/2023/12/cropped-logo-tu-300-1.png" group-title="Italy",Teleuniverso
 https://stream.cp.ets-sistemi.it:1936/teleuniverso/teleuniverso/playlist.m3u8
 
-#EXTINF:-1 tvg-name="LAZIO TV" tvg-chno="12" tvg-logo="https://www.laziotv.it/wp-content/uploads/2021/02/Logo-Laziotv-1.png" group-title="Italy",LAZIO TV
+#EXTINF:-1 tvg-name="LAZIO TV" tvg-chno="13" tvg-logo="https://www.laziotv.it/wp-content/uploads/2021/02/Logo-Laziotv-1.png" group-title="Italy",LAZIO TV
 https://streaming.softwarecreation.it/LazioTv/LazioTv/playlist.m3u8
