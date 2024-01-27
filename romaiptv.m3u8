@@ -167,3 +167,6 @@ https://live02-seg.msf.cdn.mediaset.net/live/ch-kq/kq-clr.isml/index.m3u8
 
 #EXTINF:-1 tvg-name="HGTV - Home&Garden" tvg-chno="056" tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2021/10/HGTV.png" group-title="Italy",HGTV - Home&Garden
 https://i.mjh.nz/SamsungTVPlus/ITBD44000056I.m3u8
+
+#EXTINF:-1 tvg-name="Rai 4K" tvg-chno="057" tvg-logo="https://www.litaliaindigitale.it/wp-content/uploads/2021/10/RAI-4K.png" group-title="Italy",Rai 4K
+https://raievent10-elem-live.akamaized.net/hls/live/619189/raievent10/raievent10/playlist.m3u8
