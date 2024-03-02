@@ -1,0 +1,46 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-chno="1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/1200px-Rai_1_-_Logo_2016.svg.png" group-title="Rai",Rai 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=2606803&output=16
+
+#EXTINF:-1 tvg-chno="2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/1200px-Rai_2_-_Logo_2016.svg.png" group-title="Rai",Rai 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308718&output=16
+
+#EXTINF:-1 tvg-chno="3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/1024px-Rai_3_-_Logo_2016.svg.png" group-title="Rai",Rai 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=308709&output=16
+
+#EXTINF:-1 tvg-chno="4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Rete_4_2018.svg/800px-Rete_4_2018.svg.png" group-title="Mediaset",Rete 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live03-seg.msf.cdn.mediaset.net/live/ch-r4/r4-clr.isml/manifest_hr.mpd
+
+#EXTINF:-1 tvg-chno="5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canale_5_-_2018_logo.svg/1200px-Canale_5_-_2018_logo.svg.png" group-title="Mediaset",Canale 5
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live03-col.msf.cdn.mediaset.net/live/ch-c5/c5-clr.isml/manifest.mpd
+
+#EXTINF:-1 tvg-chno="6" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/30/Logo_Italia_1.svg/1200px-Logo_Italia_1.svg.png" group-title="Mediaset",Italia 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live03-col.msf.cdn.mediaset.net/live/ch-i1/i1-clr.isml/manifest.mpd
+
+#EXTINF:-1 tvg-chno="7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/LA7_-_Logo_2011.svg/1024px-LA7_-_Logo_2011.svg.png" group-title="Cairo",LA7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://d3749synfikwkv.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-74ylxpgd78bpb/Live.m3u8
+
+#EXTINF:-1 tvg-chno="8" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/6/6d/TV8_Logo_2016.svg/800px-TV8_Logo_2016.svg.png" group-title="Sky",TV8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://hlslive-web-gcdn-skycdn-it.akamaized.net/TACT/11223/tv8web/master.m3u8?hdnea=st=1701861650~exp=1765449000~acl=/*~hmac=84c9f3f71e57b13c3a67afa8b29a8591ea9ed84bf786524399545d94be1ec04d
+
+#EXTINF:-1 tvg-chno="9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Nove_-_Logo_2017.svg/1920px-Nove_-_Logo_2017.svg.png" group-title="Warner Bros Discovery",Nove
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://amg16146-wbdi-amg16146c1-samsung-it-1831.playouts.now.amagi.tv/playlist/amg16146-warnerbrosdiscoveryitalia-nove-samsungit/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="20" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/e/e4/20_Mediaset_-_Logo_2018.svg/800px-20_Mediaset_-_Logo_2018.svg.png" group-title="Mediaset",20
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://live03-col.msf.cdn.mediaset.net/live/ch-lb/lb-clr.isml/manifest.mpd
+
+#EXTINF:-1 tvg-chno="21" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Rai_4_-_Logo_2016.svg/1024px-Rai_4_-_Logo_2016.svg.png" group-title="Rai",Rai 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+http://mediapolis.rai.it/relinker/relinkerServlet.htm?cont=746966&output=16
+
